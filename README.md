@@ -1,16 +1,21 @@
-# flutter_mvp_boilerplate
+# Flutter MVP Boilerplate 
 
-A new Flutter project.
+## About MVP (Mode View) Architecture
+MVP (view presenter model) is one of the most popular architectures for mobile developers. MVP itself is 3 main parts of an app, each of which has its own tasks, the following:
+- Model : manage all resource as data
+- View : manage all view and event used by user
+- Presenter: manager all logic and connector between Model and View
 
-## Getting Started
+## Prerequisite 
+Install Flutter on your computer, check this link https://flutter.dev/docs/get-started/install 
 
-This project is a starting point for a Flutter application.
+## Run
+Connect your real/vitual device to computer, and start with :
+```
+flutter run
+```
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Colaborators 
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Yusssan](https://yussan.github.io)
