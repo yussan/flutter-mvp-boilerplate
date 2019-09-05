@@ -1,7 +1,7 @@
 # Flutter MVP Boilerplate 
 
-## About MVP (Mode View) Architecture
-MVP (view presenter model) is one of the most popular architectures for mobile developers. MVP itself is 3 main parts of an app, each of which has its own tasks, the following:
+## About MVP (Mode View) Pattern
+MVP (view presenter model) is one of the most popular pattern for mobile developers. MVP itself is 3 main parts of an app, each of which has its own tasks, the following:
 - Model : manage all resource as data
 - View : manage all view and event used by user
 - Presenter: manager all logic and connector between Model and View
